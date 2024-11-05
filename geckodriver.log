@@ -1,0 +1,298 @@
+1711219111452	geckodriver	INFO	Listening on 127.0.0.1:54769
+1711219114494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-dev-shm-usage" "--r ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofiledGfQL8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711219115929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+1711219116035	Marionette	INFO	Listening on port 54777
+WebDriver BiDi listening on ws://127.0.0.1:54770
+Read port: 54777
+1711219116288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54770/devtools/browser/403aaa9b-68b6-4b58-9e6f-f644927d4554
+1711219128081	Marionette	INFO	Stopped listening on port 54777
+Dynamically enable window occlusion 1
+1711219579385	geckodriver	INFO	Listening on 127.0.0.1:54897
+1711219582421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-dev-shm-usage" "--r ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileAk9DcX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711219582800	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+1711219582876	Marionette	INFO	Listening on port 54905
+WebDriver BiDi listening on ws://127.0.0.1:54898
+Read port: 54905
+1711219583079	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54898/devtools/browser/65cf9b52-2a3b-4750-8f3d-6bc136559c19
+1711219596790	Marionette	INFO	Stopped listening on port 54905
+Dynamically enable window occlusion 1
+1711219609267	geckodriver	INFO	Listening on 127.0.0.1:54953
+1711219612315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-dev-shm-usage" "--r ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileTbrW8W"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711219612693	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+1711219612768	Marionette	INFO	Listening on port 54961
+WebDriver BiDi listening on ws://127.0.0.1:54954
+Read port: 54961
+1711219612953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54954/devtools/browser/982024c6-b7bc-4d0a-9100-bc2cdbb83ff1
+1711219623971	Marionette	INFO	Stopped listening on port 54961
+Dynamically enable window occlusion 1
+1711243616261	geckodriver	INFO	Listening on 127.0.0.1:60310
+1711243619491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileFPOf6j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711243621283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711243621408	Marionette	INFO	Listening on port 60364
+Read port: 60364
+WebDriver BiDi listening on ws://127.0.0.1:60311
+1711243621749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60311/devtools/browser/2573a0aa-7d01-4bb3-9acb-38d24bfbfe10
+1711243652203	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711243685402	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://z.moatads.com/stackadaptdisplay515602019759/moatad.js#moatClientLevel1=21515&moatClientLevel2=402956&moatClientLevel3=5542402&moatClientLevel4=sa_blank&moatClientSlicer1=94&moatClientSlicer2=yahoo.com&moatClientSlicer3=201422&zMoatIMP=6&zMoatMAID=sa_blank&zMoatAuction=1-8112-171124368188406675518884-1, line 331: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ghSbiK71ebhuxEqc_YnF1-p9wbLv1ze7peYEguTjq34.js line 2 > eval line 3427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ghSbiK71ebhuxEqc_YnF1-p9wbLv1ze7peYEguTjq34.js line 2 > eval line 7514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ghSbiK71ebhuxEqc_YnF1-p9wbLv1ze7peYEguTjq34.js line 2 > eval line 3175 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ClgGLJT-anMFFp_jPcSPgTpNjWBfoBtPLqdYJvwYrrQ.js line 2 > eval line 5511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s3.amazonaws.com/stackadapt_public/js/saurl.js, line 24: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript warning: https://s.yimg.com/wm/mbr/a990a97f79f151e4b7b7b05933ec7d4292544d2e/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/a990a97f79f151e4b7b7b05933ec7d4292544d2e/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1711243692703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://79cd5dff284e92298bdb89f71e163351.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript, line 18: Script terminated by timeout at:
+_348fa378_01a3_a49d_8f92_421770f198a9_5eb6a891/ds/this.Y@https://79cd5dff284e92298bdb89f71e163351.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:75890
+_348fa378_01a3_a49d_8f92_421770f198a9_5eb6a891/du/<@https://79cd5dff284e92298bdb89f71e163351.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html line 16 > injectedScript:18:76223
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159463&userIdMacro=PM_UID&predirect=https%3A%2F%2Fcontextual.media.net%2Fcksync.php%3Fcs%3D8%26vsid%3D3542452839416027000V10%26type%3Dpba%26refUrl%3D%26vid%3D12436831373542452839416027000V10%26axid_e%3D%26ovsid%3DPM_UID, line 1: Script terminated by timeout at:
+F@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159463&userIdMacro=PM_UID&predirect=https%3A%2F%2Fcontextual.media.net%2Fcksync.php%3Fcs%3D8%26vsid%3D3542452839416027000V10%26type%3Dpba%26refUrl%3D%26vid%3D12436831373542452839416027000V10%26axid_e%3D%26ovsid%3DPM_UID:1:9698
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159463&userIdMacro=PM_UID&predirect=https%3A%2F%2Fcontextual.media.net%2Fcksync.php%3Fcs%3D8%26vsid%3D3542452839416027000V10%26type%3Dpba%26refUrl%3D%26vid%3D12436831373542452839416027000V10%26axid_e%3D%26ovsid%3DPM_UID:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159463&userIdMacro=PM_UID&predirect=https%3A%2F%2Fcontextual.media.net%2Fcksync.php%3Fcs%3D8%26vsid%3D3542452839416027000V10%26type%3Dpba%26refUrl%3D%26vid%3D12436831373542452839416027000V10%26axid_e%3D%26ovsid%3DPM_UID:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159463&userIdMacro=PM_UID&predirect=https%3A%2F%2Fcontextual.media.net%2Fcksync.php%3Fcs%3D8%26vsid%3D3542452839416027000V10%26type%3Dpba%26refUrl%3D%26vid%3D12436831373542452839416027000V10%26axid_e%3D%26ovsid%3DPM_UID:1:11098
+
+JavaScript warning: https://players.brightcove.net/6415665815001/RiVAoaoIb3_default/index.min.js, line 29: Script terminated by timeout at:
+put@https://players.brightcove.net/6415665815001/RiVAoaoIb3_default/index.min.js:29:196335
+b@https://players.brightcove.net/6415665815001/RiVAoaoIb3_default/index.min.js:29:201214
+
+JavaScript warning: https://imasdk.googleapis.com/js/core/bridge3.629.1_en.html#goog_1591216683, line 425: Script terminated by timeout at:
+Az@https://imasdk.googleapis.com/js/core/bridge3.629.1_en.html#goog_1591216683:425:309
+Ez/this.aa@https://imasdk.googleapis.com/js/core/bridge3.629.1_en.html#goog_1591216683:422:90
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://login.yahoo.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ClgGLJT-anMFFp_jPcSPgTpNjWBfoBtPLqdYJvwYrrQ.js line 2 > eval line 4343 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1711243705924	Marionette	INFO	Stopped listening on port 60364
+Dynamically enable window occlusion 1
+1711243746565	geckodriver	INFO	Listening on 127.0.0.1:60826
+1711243749597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofilecyT6zw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711243750245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711243750369	Marionette	INFO	Listening on port 60922
+WebDriver BiDi listening on ws://127.0.0.1:60827
+Read port: 60922
+1711243750836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60827/devtools/browser/15bf5b2a-b86d-4aac-a00c-bcd85e45f6ef
+1711243781430	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://z.moatads.com/thetradedeskv275874568748/moatad.js#moatClientLevel1=ppzbdq0&moatClientLevel2=woapong&moatClientLevel3=37rntbj&moatClientSlicer1=www.yahoo.com&zMoatImpressionId=5078751d-ecb3-441c-842b-fe82137d3db3&zMoatCachebuster=317368&zMoatPartnerID=ozcd3rn&zMoatViewType=0&zMoatCreative=8in5h97g&zMoatDealID=&zMoatSupplyVendor=pubmatic&zMoatSite=www.yahoo.com&zMoatPublisherID=133799&zMoatAttention=1&moatClientLevel4=https%3A%2F%2Finsight.adsrvr.org%2Fenduser%2Fpie%2F%3Fpie%3D20%26vet%3DVIEWABILITY_EVENT_TYPE%26rtb%3DdD0xJmlpZD01MDc4NzUxZC1lY2IzLTQ0MWMtODQyYi1mZTgyMTM3ZDNkYjMmY3JpZD04aW41aDk3ZyZ3cD0ke0FVQ1RJT05fUFJJQ0V9JmFpZD0xJndwYz1VU0Qmc2ZlPTE4MzcwMmRlJnB1aWQ9REM1MDZFQzQtQTY5Ri00NEJFLUFDOTQtNzlFRkU5N0I3NUI1JmJkYz0yMiZwaWQ9b3pjZDNybiZhZz0zN3JudGJqJmFkdj1wcHpiZHEwJmJwPTImY2Y9NjAzMTY4NyZmcT0wJnRkX3M9d3d3LnlhaG9vLmNvbSZyY2F0cz03c3AmbXN0ZT0mbWZsZD00Jm1zc2k9Jm1mc2k9JnVob3c9MTY1JmFnc2E9JnJnej0xNzA0MiZzdmJ0dGQ9MSZkdD1QQyZvc2Y9V2luZG93cyZvcz1XaW5kb3dzMTAmYnI9RmlyZWZveCZybGFuZ3M9ZW4mbWxhbmc9JnN2cGlkPTEzMzc5OSZkaWQ9JnJjeHQ9T3RoZXImbGF0PTQwLjIwMDAwMSZsb249LTc3LjMwOTk5OCZ0bXBjPTIuNDYwMDAwMDAwMDAwMDM2NCZkYWlkPSZ2cD0wJm9zaT0mb3N2PSZiZmZpPTQxJnRlc3RpZD0xJTJBYjElMkFhJTdDZGFtJTdDbXVsdGliaWRfZGlzYWJsZWRpYXZjMSUyMCZjPUNnMVZibWwwWldRZ1UzUmhkR1Z6RWd4UVpXNXVjM2xzZG1GdWFXRWFBelUyTmlJSFRHVmlZVzV2YmpnQlVBdUFBUUdJQVFHUUFRR3dBUUM2QVFRSUFSZ0N3QUhsbHdQUUFlV1hBNUlDSFhWelgzbG9jRjl0WVdsdVgyUjBYMkZ6WDIxcFpGOXlhV2RvZEY5aTJBTGNDLUFDaUE3NEFnR0FBd0tJQXdPUUF3Q1lBd0tnQXhlNEE0UFZCTUlERkVEaVdrNlBWWnpzMXNmS3l5LXZiZThLTl91aDBBTUEyZ01FQ0UwWUJQSURBQS4uJmR1cj1DaU1LRFdOb1lYSm5aUzFoYkd3dE1qQWlFZ2pzX19fX19fX19fXzhCRWdWMFlYQmhaQW9mQ2dkeVpYaDFhemh2RU9ySkFTSVFDTkh3aTRzQkVnaHNaSE00TldseWFRbzRDaDVqYUdGeVoyVXRZV3hzUjNKaGNHVnphRzkwUW5KaGJtUlRZV1psZEhraUZnajJfX19fX19fX19fOEJFZ2xuY21Gd1pYTm9iM1FLUkFvcFkyaGhjbWRsTFdGc2JFUnBjM0JzWVhsV2FXVjNZV0pwYkdsMGVVSnBaRUZrYW5WemRHMWxiblFpRndpYV9fX19fX19fX184QkVncHhMV0ZzYkdsaGJtTmxDbEFLS1dOb1lYSm5aUzFoYkd4TmIyRjBWbWxsZDJGaWFXeHBkSGxCZEhSbGJuUnBiMjVOWlhSeWFXTnpJaU1JcFBfX19fX19fX19fQVJJT2JXOWhkQzF5WlhCdmNuUnBibWNxQmdqQWhEMFlEQkRxeVFFeU1WaFpNekF3TjBWSFVIQmZYM0ZKTjFoek0xZFJUbWRpWWxwME5tcFRRVmRPVkdwVGFXVlJYMUZ0WDFoQmJVWlpVVms0QkEuLiZjcnJlbHI9JmFkcHQ9cHVibyZmcGE9NjA2JnBjbT0zJnZjPTMmc2FpZD1GRUJEMzcyRS1GRDlGLTREN0YtOEMwRC03ODA4RjU2ODM0M0NCJmljdD1Vbmtub3duJmF1Y3Q9MSZ1c19wcml2YWN5PTFZTk4maW09MSZtYz04OTQ2ODAyMS1iMDYyLTQ3ZmYtODZmZi0yODcyNzExZDFlMTcmaWRsPVhZMzAwN0VHUHBfX3FJN1hzM1dRTmdiYlp0NmpTQVdOVGpTaWVRX1FtX1hBbUZZUVkmYWJyPTI4ODZkOGQ5LTkzMmItNDNlMS04YThkLTA2YmVkNjBiMGQ0MSZ0YWlsPTEmc3Y9cHVibWF0aWMmdGFpbD0x, line 337: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ClgGLJT-anMFFp_jPcSPgTpNjWBfoBtPLqdYJvwYrrQ.js line 2 > eval line 6879 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/pgttdsup788457658851/moatad.js#moatClientLevel1=9vf3vge&moatClientLevel2=pubmatic&moatClientLevel3=133799&moatClientLevel4=www.yahoo.com, line 327: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sejs.moatads.com/caratpgdcm659207531755_nlsn/moatad.js?moatClientLevel1=30069071#moatClientLevel2=3580923&moatClientLevel3=382761073&moatClientLevel4=208585688&zMoatG=ct=US&st=PA&city=0&dma=67&zp=17067&bw=0&zMoatN=1181432108&zMoatADV=9212879, line 337: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ghSbiK71ebhuxEqc_YnF1-p9wbLv1ze7peYEguTjq34.js line 2 > eval line 3108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ghSbiK71ebhuxEqc_YnF1-p9wbLv1ze7peYEguTjq34.js line 2 > eval line 3666 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ghSbiK71ebhuxEqc_YnF1-p9wbLv1ze7peYEguTjq34.js line 2 > eval line 1998 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914, line 79: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:79:882
+Ud/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js?cache=r20110914:98:671
+
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=DC506EC4-A69F-44BE-AC94-79EFE97B75B5&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0, line 2: Script terminated by timeout at:
+ar@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=DC506EC4-A69F-44BE-AC94-79EFE97B75B5&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:30983
+k@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=DC506EC4-A69F-44BE-AC94-79EFE97B75B5&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:31151
+bb@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=DC506EC4-A69F-44BE-AC94-79EFE97B75B5&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:35433
+B@https://ads.pubmatic.com/AdServer/js/showad.js#PIX&ptask=DSP&SPug=1&fp=1&mpc=10&u=DC506EC4-A69F-44BE-AC94-79EFE97B75B5&p=133799&s=1148313&d=2&cp=0&sc=1&rs=0&os=0:2:32365
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ClgGLJT-anMFFp_jPcSPgTpNjWBfoBtPLqdYJvwYrrQ.js line 2 > eval line 4950 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=0&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1, line 1: Script terminated by timeout at:
+q@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=0&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:9870
+J@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=0&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:14168
+x@https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=0&gdpr=0&gdpr_consent=&us_privacy=1YNN&gpp=DBAA&gpp_sid=-1:1:11098
+
+JavaScript warning: https://s.yimg.com/wm/mbr/a990a97f79f151e4b7b7b05933ec7d4292544d2e/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s.yimg.com/wm/mbr/a990a97f79f151e4b7b7b05933ec7d4292544d2e/bundle.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ClgGLJT-anMFFp_jPcSPgTpNjWBfoBtPLqdYJvwYrrQ.js line 2 > eval line 5180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://subscription.yahoo.net/NewsLetter/Scripts/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://subscription.yahoo.net/Newsletter/Preference/sub?b=theyodel&src=100001038, line 80: SyntaxError: nothing to repeat
+JavaScript warning: https://tags.tiqcdn.com/utag/bwi/grs/prod/utag.sync.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 51281: unreachable code after return statement
+JavaScript warning: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 51291: unreachable code after return statement
+JavaScript warning: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 51358: unreachable code after return statement
+JavaScript error: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 60221: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 60221: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 60221: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 60221: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://cdn.hotelplanner.com/Common/Javascript/Login/socialLogin.min.js?v=20190201022004, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D, line 120: Script terminated by timeout at:
+Ra@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:120:90
+Ta@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:120:317
+f@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:143:224
+sd@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:143:662
+nI/<@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:580:497
+Cr@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:376:231
+aa.Xm@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:568:197
+aa.Wm/</<@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:553:124
+wl@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:276:439
+Jl@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:279:155
+aa.Wm/<@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:553:110
+c@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:401:169
+Bt@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:402:269
+aa.Wm@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:553:96
+c@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:573:677
+Gm@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:286:298
+Fm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:289:279
+Fm.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:287:207
+ym@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:284:636
+FH/<@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:574:178
+aa.Sk/<@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:523:126
+aa.Sk/c/<@https://www.googletagmanager.com/gtag/js?id=G-CWC2N9VH5D:522:420
+
+1711244397908	Marionette	INFO	Stopped listening on port 60922
+Dynamically enable window occlusion 1
+JavaScript warning: https://cadmus.script.ac/d1tqrs7vz94d9k/script.js, line 1: Script terminated by timeout at:
+ds/this.Y@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:75843
+du/<@https://cadmus.script.ac/d1tqrs7vz94d9k/script.js:1:76176
+
+JavaScript warning: https://ef0359e879ba2ceb9ed1597ffe62dac9.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript, line 18: Script terminated by timeout at:
+_deb4d4aa_9778_3b29_70fa_004e9437ec12_9e82e9a3/ds/this.Y@https://ef0359e879ba2ceb9ed1597ffe62dac9.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:75890
+_deb4d4aa_9778_3b29_70fa_004e9437ec12_9e82e9a3/du/<@https://ef0359e879ba2ceb9ed1597ffe62dac9.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html?n=1 line 16 > injectedScript:18:76223
+
+ofile directory.
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1711244319211	Marionette	INFO	Stopped listening on port 61862
+Dynamically enable window occlusion 1
+1711244342706	geckodriver	INFO	Listening on 127.0.0.1:62005
+1711244345761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofile4uIzIl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711244346767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711244346851	Marionette	INFO	Listening on port 62015
+WebDriver BiDi listening on ws://127.0.0.1:62006
+Read port: 62015
+1711244347043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62006/devtools/browser/5efbe5e6-e4e6-40e7-a226-3e2e2fe99df6
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1711244355306	geckodriver	INFO	Listening on 127.0.0.1:62059
+1711244358348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileFp1cHH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711244358761	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711244358842	Marionette	INFO	Listening on port 62068
+WebDriver BiDi listening on ws://127.0.0.1:62060
+Read port: 62068
+1711244359050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62060/devtools/browser/593ddce4-302d-4241-bf3b-a6fcfb2a3c06
+1711244388962	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711244396992	Marionette	INFO	Stopped listening on port 62068
+Dynamically enable window occlusion 1
+1711244459039	geckodriver	INFO	Listening on 127.0.0.1:62433
+1711244462086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileHPUrTe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711244462488	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711244462572	Marionette	INFO	Listening on port 62445
+WebDriver BiDi listening on ws://127.0.0.1:62434
+Read port: 62445
+1711244462825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62434/devtools/browser/e97fc563-56ff-4867-ba4c-f87786e004c8
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tags.tiqcdn.com/utag/bwi/grs/prod/utag.sync.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 51281: unreachable code after return statement
+JavaScript warning: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 51291: unreachable code after return statement
+JavaScript warning: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 51358: unreachable code after return statement
+JavaScript error: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 60221: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: https://www.bestwestern.com/etc.clientlibs/bestwestern/clientlibs/clientlib-homepage.min.c2d6a08c5d09896429db7b61a95eb974.js, line 60221: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.bestwestern.com."
+JavaScript warning: https://sc-static.net/scevent.min.js, line 2: Script terminated by timeout at:
+m@https://sc-static.net/scevent.min.js:2:2789
+c@https://sc-static.net/scevent.min.js:2:6823
+
+1711244492498	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711244590012	Marionette	INFO	Stopped listening on port 62445
+Dynamically enable window occlusion 1
+1711244631877	geckodriver	INFO	Listening on 127.0.0.1:62754
+1711244634917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "62755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileC1iZGk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711244635377	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711244635470	Marionette	INFO	Listening on port 62764
+WebDriver BiDi listening on ws://127.0.0.1:62755
+Read port: 62764
+1711244635710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62755/devtools/browser/f572e6b7-de73-4881-b3c3-92e739d8e067
+1711244645321	geckodriver	INFO	Listening on 127.0.0.1:62812
+1711244648372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileIXxMmW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711244648799	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711244648895	Marionette	INFO	Listening on port 62821
+WebDriver BiDi listening on ws://127.0.0.1:62813
+Read port: 62821
+1711244649246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62813/devtools/browser/b19e74da-97bf-4f08-b844-86e1eccb579f
+1711244679806	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711245530152	Marionette	INFO	Stopped listening on port 62821
+Dynamically enable window occlusion 1
+1711398023102	geckodriver	INFO	Listening on 127.0.0.1:59875
+1711398026156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-dev-shm-usage" "--r ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dooms\\AppData\\Local\\Temp\\rust_mozprofileDY12C9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1711398027429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+1711398027526	Marionette	INFO	Listening on port 59883
+WebDriver BiDi listening on ws://127.0.0.1:59876
+Read port: 59883
+1711398027763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59876/devtools/browser/8fd11525-37f7-40ac-92ac-bb72b386575e
+1711398039276	Marionette	INFO	Stopped listening on port 59883
+Dynamically enable window occlusion 1

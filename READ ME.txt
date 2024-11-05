@@ -1,0 +1,11 @@
+Make sure you have python 3.8 or higher
+
+pip install -r requirements.txt
+python main.py
+
+
+
+This is a P.O.C Version of my undetectable automated bruteforce browser that will have a auto developer installed
+as well as a Cookie Automated Checker portion
+
+Follow us at https://t.me/+B6IXL7boGTYxYzNh https://opensourced.pro/
